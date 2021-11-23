@@ -104,6 +104,7 @@ func showMainUi() {
 	)
 
 	ids := cmd.ListAdbDeviceId()
+	//ids := []string{}
 	devicesSelect = widget.NewSelect(
 		ids,
 		func(s string) {

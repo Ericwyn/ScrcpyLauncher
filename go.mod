@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	fyne.io/fyne/v2 v2.1.1
-	github.com/Ericwyn/GoTools v0.0.0-20211108121535-2f9dd1d84942
+	github.com/Ericwyn/GoTools v0.0.0-20211123154750-66780a34a21e
 )
 
 require (

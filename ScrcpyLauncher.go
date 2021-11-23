@@ -8,6 +8,8 @@ import (
 
 func main() {
 	shell.Debug(true)
+	shell.HideWindows(true)
+
 	conf.InitConfig()
 
 	ui.StartApp()
